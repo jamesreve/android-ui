@@ -3,10 +3,10 @@ plugins {
 }
 
 android {
-    namespace = "com.develou.timepickers"
+    namespace = "com.develou.grids"
 
     defaultConfig {
-        applicationId = "com.develou.timepickers"
+        applicationId = "com.develou.grids"
         versionCode = 1
         versionName = "1.0"
 
@@ -22,8 +22,4 @@ android {
             )
         }
     }
-}
-
-dependencies {
-    implementation(libs.kotlinx.datetime)
 }

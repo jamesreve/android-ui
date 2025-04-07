@@ -1,5 +1,11 @@
 pluginManagement {
-    includeBuild("build-logic")
+    repositories {
+        gradlePluginPortal()
+        google()
+    }
+}
+
+dependencyResolutionManagement {
     repositories {
         google {
             content {
@@ -9,17 +15,13 @@ pluginManagement {
             }
         }
         mavenCentral()
-        gradlePluginPortal()
     }
-}
-dependencyResolutionManagement {
-    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
-    repositories {
-        google()
-        mavenCentral()
+    versionCatalogs {
+        create("libs") {
+            from(files("../gradle/libs.versions.toml"))
+        }
     }
 }
 
-rootProject.name = "Guía De UI"
-include(":TimePickers")
-include(":Grids")
+rootProject.name = "build-logic"
+include(":convention")
