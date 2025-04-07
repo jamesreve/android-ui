@@ -1,6 +1,6 @@
 # 🧩 Uso de Grids en Android
 
-Este proyecto contiene el código final del tutorial **[Grids en Android](https://www.develou.com/timepicker-en-android/)** publicado en el blog de Develou.
+Este proyecto contiene el código final del tutorial **[Grids en Android](https://www.develou.com/grids-en-android/)** publicado en el blog de Develou.
 
 📚 Aprende a:
 - Crear cuadriculas con `LazyVerticalColumn` y `LazyHorizontalGrid`
