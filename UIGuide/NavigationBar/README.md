@@ -19,4 +19,4 @@ Este proyecto contiene el código final del tutorial **[Cómo implementar una Na
 ---
 
 ## 🤝 ¿Problemas o sugerencias?
-Si encuentras algún error o tienes ideas para mejorar este proyecto, ¡envíame un mensaje a mi (Discord)[https://discord.gg/aAhdPKQS]!
+Si encuentras algún error o tienes ideas para mejorar este proyecto, ¡envíame un mensaje a mi [Discord](https://discord.gg/aAhdPKQS)!
