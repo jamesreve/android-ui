@@ -23,3 +23,4 @@ dependencyResolutionManagement {
 rootProject.name = "Guía De UI"
 include(":TimePickers")
 include(":Grids")
+include(":NavigationBar")
