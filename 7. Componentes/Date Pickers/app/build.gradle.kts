@@ -54,7 +54,7 @@ dependencies {
 
     implementation("androidx.activity:activity-compose:1.10.1")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.9.1")
-    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.9.0")
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.9.1")
 
     // Desugaring JDK
     coreLibraryDesugaring("com.android.tools:desugar_jdk_libs:2.1.5")
