@@ -11,7 +11,7 @@ kotlinxSerializationJson = "1.9.0"
 datetime = "0.7.1-0.6.x-compat"
 junit4 = "4.13.2"
 junit = "1.2.1"
-espressoCore = "3.6.1"
+espressoCore = "3.7.0"
 navigationCompose = "2.9.3"
 
 [libraries]
